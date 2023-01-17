@@ -1,2 +1,5 @@
-# Web端后台管理系统
-这是一个web端后台管理系统
+# Web back-office management system based on Vue.js
+
+- Supports administrator register end devices
+- Supports coordinators to facilitate better management of devices.
+- Supports monitoring temperatures in real time.
